@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 <!--
 **cawa-93/cawa-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
